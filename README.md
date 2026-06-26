@@ -39,6 +39,7 @@ torchvision
 03_raw_to_rgb/        RAW 到 RGB 的流程演示
 04_pytorch_image/     PyTorch 图像增强小模型
 05_notes/             每周复盘和概念笔记
+06_image_restoration_basic/ 传统图像复原：卷积、滤波、锐化、去模糊
 ```
 
 ## 第一课
